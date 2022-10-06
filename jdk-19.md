@@ -3,4 +3,4 @@
 | Features | relates to / is blocked by | Sub-Tasks | 
 | ---------- | ---------- | ---------- |
 | [JEP 405: Record Patterns (Preview)](https://openjdk.org/jeps/405) <br/> [JDK-8260244](https://bugs.openjdk.org/browse/JDK-8260244) | - | [Compiler implementation for Record Patterns](https://bugs.openjdk.org/browse/JDK-8262889) <br/> [openjdk/jdk/pull/8516](https://github.com/openjdk/jdk/pull/8516) |
-| [JEP 422: Linux/RISC-V Port](https://openjdk.org/jeps/422) <br/> [JDK-8276797](https://bugs.openjdk.org/browse/JDK-8276797) | ---------- | ---------- |
+| [JEP 422: Linux/RISC-V Port](https://openjdk.org/jeps/422) <br/> [JDK-8276797](https://bugs.openjdk.org/browse/JDK-8276797) | - | [Implementation of JEP 422: Linux/RISC-V Port](https://bugs.openjdk.org/browse/JDK-8276799) <br/> [openjdk/jdk/pull/6294](https://github.com/openjdk/jdk/pull/6294) |
