@@ -4,4 +4,4 @@
 | ---------- | ---------- | ---------- |
 | [JEP 405: Record Patterns (Preview)](https://openjdk.org/jeps/405) <br/> [JDK-8260244](https://bugs.openjdk.org/browse/JDK-8260244) | - | [Compiler implementation for Record Patterns](https://bugs.openjdk.org/browse/JDK-8262889) <br/> [openjdk/jdk/pull/8516](https://github.com/openjdk/jdk/pull/8516) |
 | [JEP 422: Linux/RISC-V Port](https://openjdk.org/jeps/422) <br/> [JDK-8276797](https://bugs.openjdk.org/browse/JDK-8276797) | - | [Implementation of JEP 422: Linux/RISC-V Port](https://bugs.openjdk.org/browse/JDK-8276799) <br/> [openjdk/jdk/pull/6294](https://github.com/openjdk/jdk/pull/6294) |
-| [JEP 424: Foreign Function & Memory API (Preview)](https://openjdk.org/jeps/424) <br/> [JDK-8282048](https://bugs.openjdk.org/browse/JDK-8282048) | ---------- | ---------- |
+| [JEP 424: Foreign Function & Memory API (Preview)](https://openjdk.org/jeps/424) <br/> [JDK-8282048](https://bugs.openjdk.org/browse/JDK-8282048) | [Implementation of Foreign Function & Memory API (Preview)](https://bugs.openjdk.org/browse/JDK-8282191) <br/> [openjdk/jdk/pull/7888](https://github.com/openjdk/jdk/pull/7888) | - |
