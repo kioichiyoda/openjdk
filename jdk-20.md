@@ -3,6 +3,7 @@
 | Issues | PR |
 | ---------- | ---------- |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
+| [Grapheme support in BreakIterator](https://bugs.openjdk.org/browse/JDK-8291660) | [openjdk/jdk/pull/9991](https://github.com/openjdk/jdk/pull/9991) |
 | [(tz) Update Timezone Data to 2022c](https://bugs.openjdk.org/browse/JDK-8292579) | [openjdk/jdk/pull/10012](https://github.com/openjdk/jdk/pull/10012) |
 | [Throw error if default java.security file is missing](https://bugs.openjdk.org/browse/JDK-8155246) | [openjdk/jdk/pull/9747](https://github.com/openjdk/jdk/pull/9747) |
 | [LdapLoginModule throw NPE from logout method after login failure](https://bugs.openjdk.org/browse/JDK-8282730) | [openjdk/jdk/pull/9348](https://github.com/openjdk/jdk/pull/9348) |
