@@ -3,6 +3,7 @@
 | Issues | PR |
 | ---------- | ---------- |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
+| [Add java.security.Provider.getService JFR Event](https://bugs.openjdk.org/browse/JDK-8254711) | [openjdk/jdk/pull/9657](https://github.com/openjdk/jdk/pull/9657) |
 | [Degrade Thread.stop](https://bugs.openjdk.org/browse/JDK-8289610) | [openjdk/jdk/pull/10230](https://github.com/openjdk/jdk/pull/10230) |
 | [G1: Disable preventive GCs by default](https://bugs.openjdk.org/browse/JDK-8293861) | [openjdk/jdk/pull/10304](https://github.com/openjdk/jdk/pull/10304) |
 | [Add a warning for possibly lossy conversion in compound assignments](https://bugs.openjdk.org/browse/JDK-8244681) | [openjdk/jdk/pull/8599](https://github.com/openjdk/jdk/pull/8599) |
