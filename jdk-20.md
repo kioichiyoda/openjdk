@@ -3,6 +3,7 @@
 | Issues | PR |
 | ---------- | ---------- |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
+| [Degrade Thread.suspend and Thread.resume](https://bugs.openjdk.org/browse/JDK-8249627) | [openjdk/jdk/pull/10324](https://github.com/openjdk/jdk/pull/10324) |
 | [Add java.security.Provider.getService JFR Event](https://bugs.openjdk.org/browse/JDK-8254711) | [openjdk/jdk/pull/9657](https://github.com/openjdk/jdk/pull/9657) |
 | [Degrade Thread.suspend and Thread.resume](https://bugs.openjdk.org/browse/JDK-8249627) | [openjdk/jdk/pull/10324](https://github.com/openjdk/jdk/pull/10324) |
 | [Degrade Thread.stop](https://bugs.openjdk.org/browse/JDK-8289610) | [openjdk/jdk/pull/10230](https://github.com/openjdk/jdk/pull/10230) |
