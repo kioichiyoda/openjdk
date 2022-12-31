@@ -3,6 +3,7 @@
 | Issues | PR |
 | ---------- | ---------- |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
+| [InitialSecurityProperty JFR event](https://bugs.openjdk.org/browse/JDK-8292177) | [openjdk/jdk/pull/10394](https://github.com/openjdk/jdk/pull/10394) |
 | [Some syntax checks performed by URL.openConnection() could be performed earlier, at URL construction](https://bugs.openjdk.org/browse/JDK-8293590) | [openjdk/jdk/pull/10534](https://github.com/openjdk/jdk/pull/10534) |
 | [GetLocalXXX/SetLocalXXX spec should require suspending target thread](https://bugs.openjdk.org/browse/JDK-8288387) | [openjdk/jdk/pull/10586](https://github.com/openjdk/jdk/pull/10586) |
 | [Degrade Thread.suspend and Thread.resume](https://bugs.openjdk.org/browse/JDK-8249627) | [openjdk/jdk/pull/10324](https://github.com/openjdk/jdk/pull/10324) |
