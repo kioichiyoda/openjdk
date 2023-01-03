@@ -3,6 +3,7 @@
 | Issues | PR |
 | ---------- | ---------- |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
+| [Introduce LDAP and RMI protocol-specific object factory filters to JNDI implementation](https://bugs.openjdk.org/browse/JDK-8290368) | [openjdk/jdk/pull/10578](https://github.com/openjdk/jdk/pull/10578) |
 | [InitialSecurityProperty JFR event](https://bugs.openjdk.org/browse/JDK-8292177) | [openjdk/jdk/pull/10394](https://github.com/openjdk/jdk/pull/10394) |
 | [Some syntax checks performed by URL.openConnection() could be performed earlier, at URL construction](https://bugs.openjdk.org/browse/JDK-8293590) | [openjdk/jdk/pull/10534](https://github.com/openjdk/jdk/pull/10534) |
 | [GetLocalXXX/SetLocalXXX spec should require suspending target thread](https://bugs.openjdk.org/browse/JDK-8288387) | [openjdk/jdk/pull/10586](https://github.com/openjdk/jdk/pull/10586) |
