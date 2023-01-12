@@ -3,6 +3,7 @@
 | Issues | PR |
 | ---------- | ---------- |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
+| [Update CLDR to Version 42.0](https://bugs.openjdk.org/browse/JDK-8284840) | [openjdk/jdk/pull/10820](https://github.com/openjdk/jdk/pull/10820) |
 | [(fc spec) FileChannel.write(ByteBuffer, position) behavior when file opened for append not specified](https://bugs.openjdk.org/browse/JDK-6924219) | [openjdk/jdk/pull/10707](https://github.com/openjdk/jdk/pull/10707) |
 | [Introduce LDAP and RMI protocol-specific object factory filters to JNDI implementation](https://bugs.openjdk.org/browse/JDK-8290368) | [openjdk/jdk/pull/10578](https://github.com/openjdk/jdk/pull/10578) |
 | [InitialSecurityProperty JFR event](https://bugs.openjdk.org/browse/JDK-8292177) | [openjdk/jdk/pull/10394](https://github.com/openjdk/jdk/pull/10394) |
