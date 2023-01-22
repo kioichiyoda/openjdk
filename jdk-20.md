@@ -3,6 +3,7 @@
 | Issues | PR |
 | ---------- | ---------- |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
+| [Update Unicode Data Files to 15.0.0](https://bugs.openjdk.org/browse/JDK-8284842) | [openjdk/jdk/pull/10839](https://github.com/openjdk/jdk/pull/10839) |
 | [Concurrent refinement thread adjustment and (de-)activation suboptimal](https://bugs.openjdk.org/browse/JDK-8137022) | [openjdk/jdk/pull/10256](https://github.com/openjdk/jdk/pull/10256) |
 | [Update CLDR to Version 42.0](https://bugs.openjdk.org/browse/JDK-8284840) | [openjdk/jdk/pull/10820](https://github.com/openjdk/jdk/pull/10820) |
 | [(fc spec) FileChannel.write(ByteBuffer, position) behavior when file opened for append not specified](https://bugs.openjdk.org/browse/JDK-6924219) | [openjdk/jdk/pull/10707](https://github.com/openjdk/jdk/pull/10707) |
