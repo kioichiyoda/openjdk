@@ -2,6 +2,7 @@
 [JDK 20 Early-Access Release Notes](https://jdk.java.net/20/release-notes)
 | Issues | PR |
 | ---------- | ---------- |
+| [Add constructors (String,Throwable) and (Throwable) to InvalidParameterException](https://bugs.openjdk.org/browse/JDK-8296226) | [openjdk/jdk/pull/10966](https://github.com/openjdk/jdk/pull/10966) |
 | [Deprecate and disable legacy parallel class loading workaround for non-parallel-capable class loaders](https://bugs.openjdk.org/browse/JDK-8295673) | [openjdk/jdk/pull/10832](https://github.com/openjdk/jdk/pull/10832) |
 | [Deprecate URL public constructors](https://bugs.openjdk.org/browse/JDK-8294241) | [openjdk/jdk/pull/10874](https://github.com/openjdk/jdk/pull/10874) |
 | [Disable DTLS 1.0](https://bugs.openjdk.org/browse/JDK-8256660) | [openjdk/jdk/pull/10905](https://github.com/openjdk/jdk/pull/10905) |
